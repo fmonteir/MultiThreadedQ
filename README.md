@@ -8,7 +8,10 @@ For convenience, version 1.85.0 of the boost library can be found in the **inclu
 
 ## Build process with CMake
 
-To run the unit tests, the first step is to go into the build directory using 
+To run the unit tests, the first step is to create and go into the build directory using 
+
+
+mkdir build 
 
 
 cd build
